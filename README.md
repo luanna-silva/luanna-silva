@@ -5,7 +5,7 @@ Eu sou uma desenvolvedora iniciante que gosta de explorar e criar
 
 - 🌱 Estou aprendendo Python;
 - 💻 Utilizo HTML, CSS, PHP E JS;
-- 🔍 Sei o básico de Arduino, Java, C e Python.
+- 🔍 Tenho conhecimento básico de Arduino, Java, C e Python.
 
 ---
 
