@@ -16,10 +16,3 @@ Eu sou uma desenvolvedora iniciante que gosta de explorar e criar
 
 ---
 
-<div> 
-  
-  <a href="https://www.instagram.com/l.u.h.15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luanna15silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
