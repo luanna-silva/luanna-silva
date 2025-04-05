@@ -1,6 +1,6 @@
 ## Oie, eu sou a Luanna 🎨
 
-Eu sou uma desenvolvedora iniciante que gosta de explorar e criar 
+Eu sou uma desenvolvedora iniciante que gosta de explorar e criar.
 
 - 🌱 Estou aprendendo Python;
 - 💻 Utilizo HTML, CSS, PHP E JS;
