@@ -1,9 +1,11 @@
-## Sou uma desenvolvedora iniciante que gosta de explorar e criar.
+## Oie, eu sou a Luanna 🎨
 
-🌱 Atualmente, estou aprendendo Python.
-💻 Utilizo HTML, CSS, PHP e JavaScript.
-🔍 Tenho conhecimentos básicos em Arduino, Java, C e Python.
+Eu sou uma desenvolvedora iniciante que gosta de explorar e criar.
 
+- 🌱 Atualmente, estou aprendendo Python.
+- 💻 Utilizo HTML, CSS, PHP e JavaScript.
+- 🔍 Tenho conhecimentos básicos em Arduino, Java, C e Python.
+  
 ---
 
 <div>
@@ -22,5 +24,3 @@
     </p>
   </a>
 </div>
-
----
